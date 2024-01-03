@@ -1,0 +1,106 @@
+D:\Mini Project\Programs\Project_Final\LMS\LMS\bin\Debug\LMS.exe.config
+D:\Mini Project\Programs\Project_Final\LMS\LMS\bin\Debug\LMS.exe
+D:\Mini Project\Programs\Project_Final\LMS\LMS\bin\Debug\LMS.pdb
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.csproj.SuggestedBindingRedirects.cache
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.exe
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.pdb
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Home_Page.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.SignUp.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Login.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Student_Home.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_AddBook.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_Home.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_IssueBook.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_ReturnBook.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_SearchBook.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_SearchStudent.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_ViewBooks.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_ViewStudent.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Lib_ViewReport.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Stu_Personal.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Stu_EditAccount.resources
+D:\Mini Project\Programs\Project_Final\LMS\LMS\obj\Debug\LMS.Stu_Activity.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.csproj.SuggestedBindingRedirects.cache
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_AddBook.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Home_Page.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_Home.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_IssueBook.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_ReturnBook.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_SearchBook.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_SearchStudent.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_ViewBooks.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_ViewReport.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Lib_ViewStudent.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Login.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.SignUp.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Student_Home.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Stu_Activity.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Stu_EditAccount.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.Stu_Personal.resources
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.exe
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\obj\Debug\LMS.pdb
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\bin\Debug\LMS.exe.config
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\bin\Debug\LMS.exe
+D:\Mini Project\Programs\Project_Final\New folder\LMS\LMS\bin\Debug\LMS.pdb
+D:\Mini Project\LMS\LMS\bin\Debug\LMS.exe.config
+D:\Mini Project\LMS\LMS\bin\Debug\LMS.exe
+D:\Mini Project\LMS\LMS\bin\Debug\LMS.pdb
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.csproj.SuggestedBindingRedirects.cache
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_AddBook.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Home_Page.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_Home.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_IssueBook.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_ReturnBook.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_SearchBook.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_SearchStudent.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_ViewBooks.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_ViewReport.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Lib_ViewStudent.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Login.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.SignUp.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Student_Home.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Stu_Activity.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Stu_EditAccount.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.Stu_Personal.resources
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.exe
+D:\Mini Project\LMS\LMS\obj\Debug\LMS.pdb
+D:\Mini Project\Programs\LMS\LMS\bin\Debug\LMS.exe.config
+D:\Mini Project\Programs\LMS\LMS\bin\Debug\LMS.exe
+D:\Mini Project\Programs\LMS\LMS\bin\Debug\LMS.pdb
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.csproj.SuggestedBindingRedirects.cache
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_AddBook.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Home_Page.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_Home.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_IssueBook.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_Penalty.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_ReturnBook.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_SearchBook.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_SearchStudent.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_ViewBooks.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_ViewReport.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Lib_ViewStudent.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Login.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.SignUp.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Student_Home.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Stu_Activity.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Stu_EditAccount.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Stu_PenaltyReport.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.Stu_Personal.resources
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.exe
+D:\Mini Project\Programs\LMS\LMS\obj\Debug\LMS.pdb
